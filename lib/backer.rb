@@ -1,5 +1,5 @@
 class Backer
-  def initializ()
-    
+  def initializ(backed_projects)
+    @backed_projects = backed_projects
   end
 end
